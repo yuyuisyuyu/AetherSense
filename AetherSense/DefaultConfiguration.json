@@ -16,7 +16,7 @@
       "$type": "AetherSense.Triggers.ChatTrigger, AetherSense",
       "OnlyYou": true,
       "Duration": 250,
-      "RegexPattern": "takes [0-9]+.* damage.",
+      "RegexPattern": "takes [0-9]+ damage.",
       "Name": "Damage dealt Trigger",
       "Pattern": {
         "$type": "AetherSense.Patterns.ConstantPattern, AetherSense",
